@@ -36,6 +36,6 @@
 
 ###
 
-<p align="left">All my courses available on my e-learning platform  : hamdaouiacademy.com <br><br>جميع الدورات متوفرة على منصتنا التعليميّة التونسية : hamdaouiacademy.com</p>
+<p align="left">All my courses available on my e-learning platform  : https://hamdaouiacademy.com <br><br>جميع الدورات متوفرة على منصتنا التعليميّة التونسية : https://hamdaouiacademy.com</p>
 
 ###
